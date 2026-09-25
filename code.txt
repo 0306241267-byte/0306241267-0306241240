@@ -1,6 +1,3 @@
 hello world 
-<<<<<<< HEAD
-phan-phuc-duy 
-=======
-tran-ngoc-anh-tai 
->>>>>>> abc
+phan-phuc-duy
+tran-ngoc-anh-tai
